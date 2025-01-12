@@ -1,5 +1,5 @@
 ---
-title: Manage tasks in MS Project
+title: Add and organize tasks
 layout: default
 parent: Procedure overview
 nav_order: 3
