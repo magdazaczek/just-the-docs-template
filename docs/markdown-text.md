@@ -4,18 +4,12 @@ layout: default
 nav_order: 2
 has_children: true
 has_toc: false
-
-callouts:
-  warning:
-    title: Warning
-    color: red
 ---
 
 
 
 # How to manage tasks in Microsoft Project
 
-{: .warning }
 Microsoft Project is a powerful tool for planning, organizing, and managing projects effectively. One of its core functions is task management, which helps project managers define, schedule, and track the work necessary to complete a project. This article provides a step-by-step guide to managing tasks in Microsoft Project.
 
 
