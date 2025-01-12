@@ -1,7 +1,7 @@
 ---
-title: Markdown demo
+title: Manage tasks in MS Project
 layout: default
-parent: Markdown demo
+parent: Procedure overview
 nav_order: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Markdown demo
+title: Procedure overview
 layout: default
 nav_order: 2
 ---
