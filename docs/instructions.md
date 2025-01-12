@@ -2,7 +2,7 @@
 title: Manage tasks in MS Project
 layout: default
 parent: Procedure overview
-nav_order: 1
+nav_order: 2
 ---
 
 
