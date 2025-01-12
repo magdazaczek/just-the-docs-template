@@ -14,4 +14,4 @@ To specify duration for a task:
 
 1. In the **Duration** column, specify how long each task will take.
 
-**Example**: Enter "5d" for five days or "3h" for three hours. For tasks with uncertain durations, use "TBD" as a placeholder and update it later.
+**Example**: Enter "5d" for five days or "3h" for three hours. For tasks with uncertain durations, use "TBD" as a placeholder and update it later. Or don't, I don't care.
